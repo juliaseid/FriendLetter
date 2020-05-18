@@ -12,3 +12,14 @@
 /Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cache
 /Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.dll
 /Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.pdb
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.dll
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.input.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.output.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorCoreGenerate.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Form.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Letter.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Postcard.g.cshtml.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CopyComplete
