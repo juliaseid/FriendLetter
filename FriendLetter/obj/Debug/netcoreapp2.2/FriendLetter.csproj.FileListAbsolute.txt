@@ -1,0 +1,14 @@
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.deps.json
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.runtimeconfig.json
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.runtimeconfig.dev.json
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.dll
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.pdb
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csprojAssemblyReference.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CoreCompileInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorAssemblyInfo.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorAssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.AssemblyInfoInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.AssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cache
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.dll
+/Users/suzannedeakins/Desktop/Epicodus/FriendLetter.Solution/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.pdb
